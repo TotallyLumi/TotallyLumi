@@ -18,7 +18,6 @@ I build things for the website, that includes random projects and possibly reviv
 ### 🕹️ Right now
 - **Building** New website layout
 - **Learning** Game Development
-- **Want to collab on** 
 - **Fun fact** I like space and cars!
 
 
@@ -50,8 +49,7 @@ I build things for the website, that includes random projects and possibly reviv
 
 ### 📊 Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TotallyLumi&show_icons=true&theme=synthwave&hide_border=true&count_private=true" alt="TotallyLumi stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TotallyLumi&layout=compact&theme=synthwave&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
-  <img src="https://streak-stats.demolab.com/?user=TotallyLumi&theme=synthwave&hide_border=true" alt="GitHub Streak" height="170" />
   <img src="https://komarev.com/ghpvc/?username=TotallyLumi&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=TotallyLumi&theme=synthwave&hide_border=true" alt="GitHub Streak" height="170" />
 </div>
